@@ -112,3 +112,4 @@ introspection** works in Python, when multiple classes define the same method.
 - [Inheritance - Python](https://docs.python.org/3/tutorial/classes.html#inheritance)
 - [Inheritance and Composition: A Python OOP Guide - Real Python](https://realpython.com/inheritance-composition-python/)
 - [Python Metaclasses - Real Python](https://realpython.com/python-metaclasses)
+# python-p3-inheritance-lab
